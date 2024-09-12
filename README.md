@@ -1,1 +1,3 @@
-`_`_`lua ```
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+```
